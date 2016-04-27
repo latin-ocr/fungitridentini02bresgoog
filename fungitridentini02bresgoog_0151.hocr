@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fungitridentini02bresgoog_0151.png"; bbox 0 0 3281 4878; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 812 3998 2443 4135">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 812 3998 2443 4135">
+     <span class='ocr_line' id='line_1_1' title="bbox 812 3998 2443 4135; baseline -0.001 -41"><span class='ocrx_word' id='word_1_1' title='bbox 812 3998 1224 4135; x_wconf 70' lang='lat' dir='ltr'>1.Lepiota</span> <span class='ocrx_word' id='word_1_2' title='bbox 1292 3999 2227 4135; x_wconf 53' lang='lat' dir='ltr'>clgpeolapiaflullwflr:</span> <span class='ocrx_word' id='word_1_3' title='bbox 2291 4001 2443 4093; x_wconf 78' lang='lat' dir='ltr'>alba</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 337 53 3049 4490">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 337 53 3049 4490">
+     <span class='ocr_line' id='line_1_2' title="bbox 337 53 3049 4490; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 337 53 3049 4490; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 936 4246 2382 4374">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 936 4234 2382 4374">
+     <span class='ocr_line' id='line_1_3' title="bbox 936 4246 2382 4374; baseline -0.004 -31"><span class='ocrx_word' id='word_1_5' title='bbox 936 4246 1379 4374; x_wconf 73' lang='lat' dir='ltr'>2.Lopiota</span> <span class='ocrx_word' id='word_1_6' title='bbox 1470 4253 1883 4343; x_wconf 72' lang='lat' dir='ltr'>helveola</span> <span class='ocrx_word' id='word_1_7' title='bbox 1960 4250 2382 4374; x_wconf 47' lang='grc' dir='ltr'>ΗΠΒ-,πῃ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 344 4492 2980 4595">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 344 4490 2980 4595">
+     <span class='ocr_line' id='line_1_4' title="bbox 344 4492 2980 4595; baseline 0.002 -26"><span class='ocrx_word' id='word_1_8' title='bbox 344 4527 699 4569; x_wconf 53' lang='lat' dir='ltr'>22de</span> <span class='ocrx_word' id='word_1_9' title='bbox 1102 4532 1111 4540; x_wconf 87' lang='lat'>-</span> <span class='ocrx_word' id='word_1_10' title='bbox 2522 4492 2980 4595; x_wconf 42' lang='lat' dir='ltr'>ww„</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

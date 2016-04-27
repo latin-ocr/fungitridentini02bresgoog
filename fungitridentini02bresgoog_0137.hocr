@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fungitridentini02bresgoog_0137.png"; bbox 0 0 3281 4878; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 476 175 3080 3780">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 476 175 3080 3780">
+     <span class='ocr_line' id='line_1_1' title="bbox 476 175 3080 3780; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 476 175 3080 3780; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 762 4054 2730 4221">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 762 4054 2730 4221">
+     <span class='ocr_line' id='line_1_2' title="bbox 762 4054 2730 4221; baseline -0.003 -58"><span class='ocrx_word' id='word_1_2' title='bbox 762 4054 1445 4221; x_wconf 52' lang='lat' dir='ltr'><strong><em>Hygr&#39;ophm‘us</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1505 4055 2034 4163; x_wconf 72' lang='lat' dir='ltr'>Bresadulae</span> <span class='ocrx_word' id='word_1_4' title='bbox 2151 4060 2436 4193; x_wconf 61' lang='lat' dir='ltr'><strong><em>Quc&#39;aelei</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2505 4094 2730 4214; x_wconf 55' lang='grc' dir='ltr'><strong><em>περ.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 444 4299 3018 4382">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 444 4299 3018 4382">
+     <span class='ocr_line' id='line_1_3' title="bbox 444 4299 3018 4382; baseline -0.001 -26"><span class='ocrx_word' id='word_1_6' title='bbox 444 4305 727 4359; x_wconf 72' lang='lat' dir='ltr'><em>Bresadola</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 743 4311 834 4359; x_wconf 81' lang='lat' dir='ltr'><em>del.</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 919 4376 921 4380; x_wconf 16' lang='lat'><em>7</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 2188 4371 2190 4374; x_wconf 13' lang='lat' dir='ltr'>y</span> <span class='ocrx_word' id='word_1_10' title='bbox 2511 4299 2820 4382; x_wconf 49' lang='lat' dir='ltr'><strong><em>limalsppd</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2840 4304 3018 4356; x_wconf 66' lang='lat' dir='ltr'><em>Promo</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

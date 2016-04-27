@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fungitridentini02bresgoog_0301.png"; bbox 0 0 3281 4878; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 257 142 2981 277">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 257 142 2981 277">
+     <span class='ocr_line' id='line_1_1' title="bbox 257 142 2981 277; baseline -0.001 -42"><span class='ocrx_word' id='word_1_1' title='bbox 257 142 603 277; x_wconf 47' lang='lat' dir='ltr'><em>0⁶32th</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 644 145 1123 240; x_wconf 49' lang='lat' dir='ltr'><em>&amp;mimum</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1619 172 1622 178; x_wconf 86' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_4' title='bbox 1967 194 1974 202; x_wconf 96' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2349 152 2565 243; x_wconf 50' lang='lat' dir='ltr'>effug.</span> <span class='ocrx_word' id='word_1_6' title='bbox 2657 156 2981 236; x_wconf 73' lang='lat' dir='ltr'>LXXXVII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 255 296 2953 4592">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 255 296 2953 4592">
+     <span class='ocr_line' id='line_1_2' title="bbox 255 296 2349 404; baseline 0 4474"><span class='ocrx_word' id='word_1_7' title='bbox 255 296 2349 404; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 255 404 2953 4592; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 255 404 2953 4592; x_wconf 95' lang='lat' dir='ltr'><em>   </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2391 4535 3112 4618">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2391 4535 3112 4618">
+     <span class='ocr_line' id='line_1_4' title="bbox 2391 4535 3112 4618; baseline -0.006 -31"><span class='ocrx_word' id='word_1_9' title='bbox 2391 4535 2474 4587; x_wconf 68' lang='lat' dir='ltr'><em>hl</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 2480 4540 2521 4586; x_wconf 76' lang='grc' dir='ltr'><em>(ἰ</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 2525 4538 2720 4600; x_wconf 70' lang='grc' dir='ltr'><em>Ζῖρρσῖ</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 2744 4540 2792 4587; x_wconf 83' lang='lat' dir='ltr'><em>T</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 2785 4542 2924 4585; x_wconf 66' lang='lat' dir='ltr'><em>rento</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 3108 4609 3112 4618; x_wconf 78' lang='lat'><em>,</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

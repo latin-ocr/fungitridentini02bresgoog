@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fungitridentini02bresgoog_0119.png"; bbox 0 0 3281 4878; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 333 213 2925 379">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 333 213 2925 379">
+     <span class='ocr_line' id='line_1_1' title="bbox 333 213 2925 379; baseline 0.001 -49"><span class='ocrx_word' id='word_1_1' title='bbox 333 220 666 379; x_wconf 44' lang='grc' dir='ltr'>ἑέἶιᾞῑκ</span> <span class='ocrx_word' id='word_1_2' title='bbox 681 214 1209 332; x_wconf 36' lang='lat' dir='ltr'>Samum</span> <span class='ocrx_word' id='word_1_3' title='bbox 2582 213 2809 334; x_wconf 53' lang='lat' dir='ltr'>5}ss</span> <span class='ocrx_word' id='word_1_4' title='bbox 2889 221 2925 334; x_wconf 84' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 552 722 2652 3393">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 552 722 2652 3393">
+     <span class='ocr_line' id='line_1_2' title="bbox 552 722 2652 3393; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 552 722 2652 3393; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 717 4038 2466 4210">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 717 4038 2466 4210">
+     <span class='ocr_line' id='line_1_3' title="bbox 717 4038 2466 4210; baseline 0.001 -50"><span class='ocrx_word' id='word_1_6' title='bbox 717 4038 1191 4163; x_wconf 65' lang='lat' dir='ltr'>Amanita</span> <span class='ocrx_word' id='word_1_7' title='bbox 1316 4052 1757 4163; x_wconf 67' lang='lat' dir='ltr'>cinerea</span> <span class='ocrx_word' id='word_1_8' title='bbox 1860 4040 2466 4210; x_wconf 67' lang='lat' dir='ltr'><strong>Bpes.n.sp.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 309 4349 2932 4431">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 309 4349 2932 4431">
+     <span class='ocr_line' id='line_1_4' title="bbox 309 4349 2932 4431; baseline 0.001 -32"><span class='ocrx_word' id='word_1_9' title='bbox 309 4353 616 4402; x_wconf 52' lang='lat' dir='ltr'>Eram-{ola</span> <span class='ocrx_word' id='word_1_10' title='bbox 631 4356 730 4401; x_wconf 76' lang='lat' dir='ltr'>del.</span> <span class='ocrx_word' id='word_1_11' title='bbox 2368 4349 2516 4403; x_wconf 59' lang='lat' dir='ltr'><em>LiLG.</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 2531 4356 2717 4431; x_wconf 74' lang='lat' dir='ltr'><em>Zippel</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 2736 4353 2932 4403; x_wconf 58' lang='lat' dir='ltr'>Tssenlo</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

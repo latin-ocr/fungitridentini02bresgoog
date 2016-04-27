@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fungitridentini02bresgoog_0005.png"; bbox 0 0 3281 4878; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2311 149 2912 348">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2311 149 2912 348">
+     <span class='ocr_line' id='line_1_1' title="bbox 2311 149 2912 348; baseline 0.017 -39"><span class='ocrx_word' id='word_1_1' title='bbox 2311 149 2912 348; x_wconf 48' lang='lat' dir='ltr'>swa</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 304 963 2869 1198">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 87 810 2869 1218">
+     <span class='ocr_line' id='line_1_2' title="bbox 304 963 2869 1198; baseline 0.002 -44.61"><span class='ocrx_word' id='word_1_2' title='bbox 304 966 1124 1161; x_wconf 78' lang='lat' dir='ltr'>FUNGI</span> <span class='ocrx_word' id='word_1_3' title='bbox 1277 963 2869 1198; x_wconf 74' lang='lat' dir='ltr'>TRIDENTlNJ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 696 1348 2466 1441">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 696 1348 2466 1441">
+     <span class='ocr_line' id='line_1_3' title="bbox 696 1348 2466 1441; baseline -0.002 -13"><span class='ocrx_word' id='word_1_4' title='bbox 696 1349 971 1428; x_wconf 87' lang='lat' dir='ltr'>NOVI</span> <span class='ocrx_word' id='word_1_5' title='bbox 1036 1349 1235 1427; x_wconf 85' lang='lat' dir='ltr'>VEL</span> <span class='ocrx_word' id='word_1_6' title='bbox 1296 1348 1785 1428; x_wconf 88' lang='lat' dir='ltr'>NONDUM</span> <span class='ocrx_word' id='word_1_7' title='bbox 1859 1348 2466 1441; x_wconf 86' lang='lat' dir='ltr'><strong>DELINEATI,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 521 1601 2636 1664">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 521 1601 2636 1664">
+     <span class='ocr_line' id='line_1_4' title="bbox 521 1601 2636 1664; baseline -0.001 -2"><span class='ocrx_word' id='word_1_8' title='bbox 521 1601 2636 1664; x_wconf 75' lang='lat' dir='ltr'>IIIIIIIIIIIIIIIIIIIIIIIIIIIIII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 842 1909 2336 2163">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 842 1909 2336 2163">
+     <span class='ocr_line' id='line_1_5' title="bbox 842 1909 2336 2163; baseline -0.003 -43"><span class='ocrx_word' id='word_1_9' title='bbox 842 2012 1157 2120; x_wconf 75' lang='lat' dir='ltr'><strong>SAC.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1247 1909 2336 2163; x_wconf 41' lang='lat' dir='ltr'>[fflssssisssmom</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1356 4073 1787 4132">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1356 4073 1787 4132">
+     <span class='ocr_line' id='line_1_6' title="bbox 1356 4073 1787 4132; baseline -0.005 0"><span class='ocrx_word' id='word_1_11' title='bbox 1356 4073 1787 4132; x_wconf 89' lang='lat' dir='ltr'>TTTTTTTT</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
